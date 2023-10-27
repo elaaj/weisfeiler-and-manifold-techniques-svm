@@ -20,14 +20,14 @@ Choose one [graph kernel](https://www.dsi.unive.it/~atorsell/AI/graph/kernels.pd
 * Graphlet Kernel
 * Random Walk Kernel
 * Weisfeiler-Lehman Kernel
-* Choose one manifold learning technique among
 
-Isomap
-Diffusion Maps
-Laplacian Eigenmaps
-Local Linear Embedding
+Choose one manifold learning technique among
+* Isomap
+* Diffusion Maps
+* Laplacian Eigenmaps
+* Local Linear Embedding
+
 Compare the performance of an SVM trained on the given kernel, with or without the manifold learning step, on the following datasets:
-
 * [PPI]
 * [Shock]
 
